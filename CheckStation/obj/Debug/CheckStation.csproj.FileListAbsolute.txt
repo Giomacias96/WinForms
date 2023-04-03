@@ -1,0 +1,11 @@
+C:\Users\shcvnj\source\repos\CheckStation\bin\Debug\CheckStation.exe.config
+C:\Users\shcvnj\source\repos\CheckStation\bin\Debug\CheckStation.exe
+C:\Users\shcvnj\source\repos\CheckStation\bin\Debug\CheckStation.pdb
+C:\Users\shcvnj\source\repos\CheckStation\obj\Debug\CheckStation.csproj.AssemblyReference.cache
+C:\Users\shcvnj\source\repos\CheckStation\obj\Debug\CheckStation.csproj.SuggestedBindingRedirects.cache
+C:\Users\shcvnj\source\repos\CheckStation\obj\Debug\CheckStation.Form1.resources
+C:\Users\shcvnj\source\repos\CheckStation\obj\Debug\CheckStation.Properties.Resources.resources
+C:\Users\shcvnj\source\repos\CheckStation\obj\Debug\CheckStation.csproj.GenerateResource.cache
+C:\Users\shcvnj\source\repos\CheckStation\obj\Debug\CheckStation.csproj.CoreCompileInputs.cache
+C:\Users\shcvnj\source\repos\CheckStation\obj\Debug\CheckStation.exe
+C:\Users\shcvnj\source\repos\CheckStation\obj\Debug\CheckStation.pdb
